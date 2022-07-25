@@ -3,6 +3,7 @@ package camadaTabuleiro;
 public class Posicao {
 	private int fileira;
 	private int coluna;
+	
 	public Posicao(int fileira, int coluna) {
 
 		this.fileira = fileira;
